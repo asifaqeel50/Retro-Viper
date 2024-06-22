@@ -2,7 +2,6 @@
 
 Welcome to Retro Viper, a retro-themed Snake game implemented in React!
 
-![Gameplay Screenshot](./screenshot.png)
 
 ## Table of Contents
 
